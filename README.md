@@ -11,14 +11,14 @@
 ## 💻 Project
 
 ### Backend
-- 2024 숙명여대 멋쟁이 사자처럼 미니프로젝트 | **your story** | 봉사활동
-- 2024 멋쟁이사자처럼 여기톤 : HERETHON | **Goal Groove** | 일정관리
-- 2024 멋쟁이사자처럼 중앙 해커톤 | **빵긋빵굿** | 웰니스 빵 탐색
-- 2024 멋쟁이사자처럼 4호선톤 | **편슐랭** | 편의점 조합 모음
-- 2024 SOLUX 1학기 프로젝트 | **MUNTOUR** | 문화생활 공유
+- [2024 숙명여대 멋쟁이 사자처럼 미니프로젝트](https://github.com/mhdiree/yourstory-BE.git) | **your story** | 봉사활동
+- [2024 멋쟁이사자처럼 여기톤](https://github.com/mhdiree/2024-Herethon-19.git) : HERETHON | **Goal Groove** | 일정관리
+- [2024 멋쟁이사자처럼 중앙 해커톤](https://github.com/mhdiree/DreamPatissier-Server.git) | **빵긋빵굿** | 웰니스 빵 탐색
+- [2024 멋쟁이사자처럼 4호선톤](https://github.com/mhdiree/BACKEND.git) | **편슐랭** | 편의점 조합 모음
+- [2024 SOLUX 1학기 프로젝트](https://github.com/mhdiree/solux_24-01_Backend.git) | **MUNTOUR** | 문화생활 공유
 
 ### Data
-- 2024 LG-aimers 4기 | B2B 데이터 분석, 모델링
+- [2024 LG-aimers 4기](https://github.com/mhdiree/lg-aimers.git) | B2B 데이터 분석, 모델링
 
 ---
 
