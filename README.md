@@ -15,13 +15,12 @@
 - [2024 멋쟁이사자처럼 4호선톤](https://github.com/mhdiree/BACKEND.git) | **편슐랭** | 편의점 조합 추천
 - [2024 멋쟁이사자처럼 중앙 해커톤](https://github.com/mhdiree/DreamPatissier-Server.git) | **빵긋빵굿** | 웰니스 빵 탐색
 
-### Data
-- [2024 LG-aimers 4기](https://github.com/mhdiree/lg-aimers.git) | B2B 데이터 분석, 모델링
-
-
 ### AI
 - [2025 AWS 해커톤](https://github.com/mhdiree/Matsongi) | **YOUME** | 맛 벡터 기반 추천
 - [2025 인공지능산업체특강](https://github.com/mhdiree/recycling-app) | **쓰담** | Custom VIsion 기반 분리수거 도우미
+
+### Data
+- [2024 LG-aimers 4기](https://github.com/mhdiree/lg-aimers.git) | B2B 데이터 분석, 모델링
 
 ---
 
